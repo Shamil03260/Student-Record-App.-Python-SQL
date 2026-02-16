@@ -1,1 +1,0 @@
-# Student-Record-App.-Python-SQL
